@@ -1,0 +1,25 @@
+/* CSS Document */
+.container {
+	width: 28%;
+	margin:120px auto;
+	padding: 50px;
+	box-shadow:  0px 7px 29px 0px black;
+	background-color: white;
+}
+body {
+	background-color: chocolate;
+	padding: 50px;
+	
+}
+.form-group{
+	margin-bottom: 30px;
+}
+
+#btn {
+	width: 100%;
+	background-color: aquamarine;
+	color: white;
+	padding: 10px;
+	font-size: large;
+	border-radius: 10px;
+}
